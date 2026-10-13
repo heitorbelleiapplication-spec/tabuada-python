@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧮 Tabuada em Python
+#  Tabuada em Python
 
 Programa simples em **Python 3** que recebe um número inteiro e exibe sua tabuada de **1 a 10** no terminal.
 
@@ -26,7 +26,7 @@ O projeto foi criado para demonstrar conceitos fundamentais de programação, co
 
 ---
 
-## ⚙️ Como funciona
+##  Como funciona
 
 Ao iniciar o programa, ele aguarda que o usuário digite um número inteiro. Em seguida, utiliza um laço de repetição para percorrer os multiplicadores de `1` a `10` e mostra cada resultado no terminal.
 
@@ -38,7 +38,7 @@ número * multiplicador = resultado
 
 ---
 
-## 🛠️ Tecnologias e requisitos
+##  Tecnologias e requisitos
 
 - **Linguagem:** Python 3
 - **Bibliotecas externas:** nenhuma
@@ -63,7 +63,7 @@ python3 --version
 
 ---
 
-## ▶️ Como executar
+##  Como executar
 
 ### 1. Obtenha o projeto
 
@@ -101,7 +101,7 @@ Digite um número inteiro de **0 a 1000** e pressione **Enter**. O programa exib
 
 ---
 
-## 💻 Exemplo de uso
+##  Exemplo de uso
 
 ### Entrada
 
@@ -128,7 +128,7 @@ Assim, ao informar `2`, a tabuada começa em `2 * 1 = 2` e termina em `2 * 10 = 
 
 ---
 
-## 📂 Estrutura do projeto
+##  Estrutura do projeto
 
 ```text
 tabuada-python/
@@ -140,7 +140,7 @@ tabuada-python/
 
 ---
 
-## 🧠 Código principal
+##  Código principal
 
 O funcionamento central do programa está no arquivo `main.py`:
 
@@ -160,7 +160,7 @@ O `range(1, 11)` gera os números de `1` a `10`. A cada repetição, o programa 
 
 ---
 
-## ✅ Resultado esperado
+##  Resultado esperado
 
 Para uma entrada válida, o programa imprime exatamente **10 linhas de resultado**, uma para cada multiplicador entre `1` e `10`.
 
